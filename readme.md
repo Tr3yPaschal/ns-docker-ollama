@@ -70,3 +70,6 @@ CMD ["python", "app.py"]
      ```
      docker run -p 5000:5000 -p 11434:11434 my-python-app
      ```
+*Reference*
+
+https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html#network-repo-installation-for-ubuntu
